@@ -45,7 +45,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.github.avianey.android-jersey-client</groupId>
+        <groupId>fr.avianey.android-jersey-client</groupId>
         <artifactId>jersey-project</artifactId>
         <version>1.17.1</version>
     </parent>
