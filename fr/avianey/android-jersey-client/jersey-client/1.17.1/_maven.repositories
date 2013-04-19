@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Apr 19 12:09:41 CEST 2013
+jersey-client-1.17.1.pom>=
+jersey-client-1.17.1.jar>=
+jersey-client-1.17.1-sources.jar>=

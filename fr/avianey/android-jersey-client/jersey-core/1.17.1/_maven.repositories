@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Apr 19 12:09:36 CEST 2013
+jersey-core-1.17.1.jar>=
+jersey-core-1.17.1.pom>=
+jersey-core-1.17.1-sources.jar>=
