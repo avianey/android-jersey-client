@@ -55,7 +55,7 @@
 
     <dependencies>
 		<dependency>
-			<groupId>com.github.avianey.android-jersey-client</groupId>
+			<groupId>fr.avianey.android-jersey-client</groupId>
 			<artifactId>jersey-core</artifactId>
 			<version>${project.version}</version>
 		</dependency>
